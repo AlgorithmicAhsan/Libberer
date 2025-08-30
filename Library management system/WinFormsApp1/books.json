@@ -1,0 +1,17 @@
+{
+  "8ff5c3a2-add4-4043-96a8-e7918e21e611": {
+    "BookName": "123",
+    "ISBN": "1323536346",
+    "Author": "noone",
+    "IssuedDate": "2024-01-24",
+    "MemberName": "none"
+  },
+  "4ca8352d-55dc-4447-a481-dcd00cfa46af": {
+    "BookName": "mybook",
+    "ISBN": "0123456789",
+    "Author": "myself",
+    "PublishedDate": "2024-01-24",
+    "Edition": "3",
+    "Description": "new"
+  }
+}
